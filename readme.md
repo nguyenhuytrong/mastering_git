@@ -1,5 +1,6 @@
-## Hello, Git!
+## Hey yo what's up
 
+- This message is to say that Git & GitHub are so fun
 ### Typical workflow
 1. Create a local main in your comp and a repo on GitHub
 2. Clone the repo

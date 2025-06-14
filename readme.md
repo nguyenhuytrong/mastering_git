@@ -1,5 +1,15 @@
 ## Hello, Git!
 
+### Typical workflow
+1. Create a local main in your comp and a repo on GitHub
+2. Clone the repo
+2. Create a new **branch** from the **main** or another branch
+3. Make your changes
+4. **Push** the branch to the remote repo
+5. Open the **Pull Request** and **Merge** changes
+6. **Pull** the merged changes into your **local main** 
+7. Repeat from step 2
+
 ### Install Posh-Git
 To keep track of what is the 'head' is currently on. I mean when use the 'checkout'.
 and it's shown in the terminal

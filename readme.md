@@ -1,5 +1,6 @@
-## Hey yo what's up
+## Welcome to Git!
 
+- This message is from `dev-troy` 
 - This message is to say that Git & GitHub are so fun
 ### Typical workflow
 1. Create a local main in your comp and a repo on GitHub
@@ -12,7 +13,7 @@
 7. Repeat from step 2
 
 ### Install Posh-Git
-To keep track of what is the **head** is currently on. I mean when use the `checkout`.
+To keep track of what is the 'head' is currently on. I mean when use the 'checkout'.
 and it's shown in the terminal
 
 Steps:
